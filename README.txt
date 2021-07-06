@@ -4,10 +4,8 @@
 
 <p>This is a paragraph.</p>
 <p>This is another paragraph.</p>
-<<<<<<< HEAD
-<p>This is one more paragraph.</p>
-=======
-<p>One more paragraph.</p>
->>>>>>> css-assignments
+<p>This is one paragraph.</p>
+<p>This is another paragraph.</p>
+
 </body>
 </html>
